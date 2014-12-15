@@ -1,0 +1,14 @@
+==================================================================================================
+========================================READ ME===================================================
+==================================================================================================
+
+.	import database file(isherwood_athletics.sql) at the root folder
+.	Login as admin to manage the site(email: admin@yahoo.com; password:123456)
+.	number of rows diplayed per page is 8(set in include/app.config.inc.php)
+
+
+==================================================================================================
+Thank you!!!
+
+Michael Fasipe(1110370) MOF1AMT
+fasipemichael@yahoo.com
